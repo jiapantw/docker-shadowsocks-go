@@ -1,6 +1,6 @@
 # docker-shadowsocks-go
 
-Docker image for shadowsocks based on alpine linux image, just over 6MB in size.
+Docker image for shadowsocks based on busybox image, just over 6MB in size.
 
 ## Usage
 
